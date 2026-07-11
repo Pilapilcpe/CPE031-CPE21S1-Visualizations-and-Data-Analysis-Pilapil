@@ -15,4 +15,6 @@ This repository contains all activities, exercises, and programming tasks comple
 👉[https://github.com/Pilapilcpe/MacroTracker.git](https://github.com/NatMendoza/CPE009A-FINAL-PROJECT-OOP1.git)
 
 ##
-![Coding GIF](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/midAbGgmXxkAAAAC/funny-cat.gif" width="600">
+</p>
