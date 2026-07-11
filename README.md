@@ -11,7 +11,7 @@ This repository contains all activities, exercises, and programming tasks comple
 - 💻 C++
 
 ## 📂 Other Projects
-👉[All 1st year CPE projects](https://github.com/Pilapilcpe/CPE201A_FP_PILAPIL.git) <br>
+👉[Lost and Found Tracker](https://github.com/Pilapilcpe/CPE201A_FP_PILAPIL.git) <br>
 👉[MacroTracker](https://github.com/NatMendoza/CPE009A-FINAL-PROJECT-OOP1.git)
 
 ##
