@@ -14,6 +14,8 @@ This repository contains all activities, exercises, and programming tasks comple
 👉[Lost and Found Tracker](https://github.com/Pilapilcpe/CPE201A_FP_PILAPIL.git) <br>
 👉[MacroTracker](https://github.com/NatMendoza/CPE009A-FINAL-PROJECT-OOP1.git)
 
+## Contents
+
 ##
 <p align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600">
