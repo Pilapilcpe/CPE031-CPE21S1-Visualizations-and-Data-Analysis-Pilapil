@@ -16,5 +16,5 @@ This repository contains all activities, exercises, and programming tasks comple
 
 ##
 <p align="center">
-  <img src="https://media1.tenor.com/m/midAbGgmXxkAAAAC/funny-cat.gif" width="600">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600">
 </p>
